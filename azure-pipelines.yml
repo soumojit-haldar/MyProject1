@@ -15,6 +15,7 @@ variables:
 steps:
 
 - bash: echo "Hello World"
+  displayName: Bash by Soumojit
 
 #- script: dotnet build --configuration $(buildConfiguration)
 #  displayName: 'dotnet build $(buildConfiguration)'
